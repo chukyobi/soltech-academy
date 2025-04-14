@@ -25,7 +25,7 @@
     display: flex;
     align-items: center;
     gap: 50px;
-    justify-content: space-between;
+    
     
 }
 .left-side{
@@ -60,6 +60,7 @@
     list-style: none;
     display: flex;
     gap: 80px;
+    margin-left: 70%;
     
 }
 .center-side img{
@@ -69,6 +70,7 @@
     display: flex;
     gap: 8px;
     align-items: center;
+    margin-left: 51%;
 }
 
 .right-side span{
@@ -200,7 +202,7 @@
 }
 .content{
     margin-top: 15px;
-    width: 90%;
+    width: 80%;
     display: flex;
     flex-direction: column;
     justify-content: center;
